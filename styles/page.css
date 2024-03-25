@@ -1,0 +1,17 @@
+aside
+{
+    float: left;
+    margin-right: 30px;
+    width: 42%;
+}
+main
+{
+    float: left;
+    border-left: double 10px silver;
+    padding-left: 20px;
+    width: 50%;
+} 
+table
+{
+    width:97%;
+}
